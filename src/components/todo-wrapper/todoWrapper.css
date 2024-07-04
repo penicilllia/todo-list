@@ -1,0 +1,20 @@
+.todo-wrapper {
+    /* background-color: #b0e7ca; */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 30px;
+}
+
+.todo-wrapper__header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    margin-bottom: 60px;
+    align-items: center;
+}
+
+.todo-wrapper__title {
+    font-family: "Indie Flower", cursive;
+    color: var(--color-primary);
+    font-size: 60px;
+    margin: 0;
+}

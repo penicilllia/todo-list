@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #0387c4;
+  --color-secondary: #feebf3;
+  --color-secondary-dark: #f1b4ce;
+}
+
+body {
+  background-color: var(--color-secondary);
+}
+
+.App {
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+}

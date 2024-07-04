@@ -1,0 +1,9 @@
+#flower {
+    animation: rotate 5s infinite;
+}
+
+@keyframes rotate {
+    50% {
+        transform: rotate(180deg);
+    }
+}
